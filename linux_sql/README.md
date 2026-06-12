@@ -62,9 +62,7 @@ The monitoring system uses a centralized database architecture. Each Linux host 
 - Docker Container
 - Crontab Scheduler
 
-```markdown
-![Cluster Diagram](./assets/LCA_diagram.png)
-```
+![Cluster Diagram](../assets/LCA_diagram.png)
 
 ---
 
