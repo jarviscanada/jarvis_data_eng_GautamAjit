@@ -101,7 +101,7 @@ Model performance, feature importance, and population stability results were con
 
 ### 2.5 Pipeline Architecture
 
-!\[Pipeline Architecture](pipeline.png)
+![Pipeline Architecture](pipeline.png)
 
 \---
 
