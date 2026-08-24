@@ -14,13 +14,13 @@ Driven by a passion for transforming data into intelligent solutions, I am a Mac
 
 ## Jarvis Projects
 
-### [Cluster Monitor](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/linux_sql)
+### [Cluster Monitor](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/tree/master/linux_sql)
 Developed a Linux cluster monitoring solution to collect and analyze hardware specifications and server utilization metrics (CPU, memory, and resource usage) for infrastructure capacity planning. Built automated Bash and PostgreSQL scripts to capture and store system data in a Docker-provisioned PostgreSQL database, with Git used for version control. Implemented scheduled monitoring using Cron to collect usage metrics every minute, enabling continuous performance tracking. Designed the MVP on a single node with a scalable architecture capable of supporting multi-node Linux clusters.
 
-### [Python Data Analytics](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/python_data_anlytics)
+### [Python Data Analytics](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/tree/master/python_data_wrangling)
 Developed a customer analytics proof of concept for a UK-based online retailer to uncover purchasing patterns and support data-driven marketing decisions. Leveraged Python, Pandas, NumPy, and Jupyter Notebook to perform data cleaning, transformation, exploratory data analysis (EDA), and customer segmentation on transactional sales data. Analyzed customer behavior, purchasing trends, and revenue drivers to generate actionable insights for targeted marketing campaigns, customer retention initiatives, and high-value customer acquisition.
 
-### [Spark on Databricks](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/spark)
+### [Spark on Databricks](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/tree/master/spark/notebook)
 Worked on Azure Databricks clusters, ingesting data via the native Lakeflow Connect using a serverless cluster, via Azure Data Factory (ADF) and unity catalog volumes. Implemented the Medallion Architecture to load and transform raw financial transactional data to build a fraud analytics dashboard. Built DLT pipelines to extract stock market data through an API to build a dashboard that visualizes key stock market metrics like Daily price movement, Price trend over 7, 30, and 90 days, Daily percentage change, Trading volume trends & Company-level performance comparisons.
 
 ### [Credit Scoring pipeline](https://github.com/jarviscanada/jarvis_data_eng_GautamAjit/capstone)
