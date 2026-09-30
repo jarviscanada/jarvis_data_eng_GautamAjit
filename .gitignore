@@ -1,0 +1,13 @@
+# Capstone datasets
+capstone/data/*
+!capstone/data/.gitkeep
+
+capstone/models/*
+!capstone/models/.gitkeep
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
